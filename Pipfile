@@ -6,7 +6,13 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-
+jupyterlab = "*"
+sklearn = "*"
+matplotlib = "*"
+seaborn = "*"
+numpy = "*"
+pandas = "*"
+requests = "*"
 
 [requires]
 python_version = "3.8"
